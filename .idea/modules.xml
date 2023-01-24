@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Automation-Training/.idea/Automation-Training.iml" filepath="$PROJECT_DIR$/../Automation-Training/.idea/Automation-Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Barada_new.iml" filepath="$PROJECT_DIR$/.idea/Barada_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EMS Framework 28Apr2022/.idea/EMS Framework 28Apr2022.iml" filepath="$PROJECT_DIR$/../EMS Framework 28Apr2022/.idea/EMS Framework 28Apr2022.iml" />
+    </modules>
+  </component>
+</project>
