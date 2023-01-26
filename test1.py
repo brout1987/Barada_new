@@ -9,7 +9,7 @@ sys.exit(0)
 x=10
 if x>2:
  prime=true
- for i in range (3, x):
+ for i in range (5, x):
      for j in range(2, i):
         if (i % j) == 0:
          print (i, "is not a prime no")
