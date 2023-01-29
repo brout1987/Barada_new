@@ -7,7 +7,7 @@ print(b)
 x=range(6)
 for i in x:
     print(i)
-y=10
+y=1000
 for l in range(2, y):
     print(l)
 
